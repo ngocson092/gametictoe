@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/5511907/121772918-c24e8b80-cba2-11eb-95c4-cf2737343818.png)
+
+
 In the project directory, you can run:
 
 ### `yarn start`
